@@ -1,0 +1,22 @@
+ h1	{color:rgb(102, 102, 255);
+ 	margin-left: 15px;
+ }
+
+ h2 {color:rgb(153, 204, 255);
+ 	margin-left: 15px;
+ }
+
+ #nav	{
+ 	border:3px dashed #ffcccc;
+ 	margin: 10px 5px 15px 20px; 
+ 	padding: 10px 10px 10px 10px;
+ }
+
+ #nav a {text-decoration: none;
+ 	color:#ccffff;
+ }
+
+ .recommended {
+ 	font-family: Tahoma;
+ 	margin-left: 15 px; 
+ }
